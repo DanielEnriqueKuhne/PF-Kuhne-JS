@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "Samsung Galaxy S23",
+        "gama": "Alta",
+        "color": "Cream",
+        "stock": "5",
+        "precio": 567000,
+        "rutaImagen": "./images/s23.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Samsung Galaxy S22",
+        "gama": "Alta",
+        "color": "Phantom Black",
+        "stock": "7",
+        "precio": 460000,
+        "rutaImagen": "./images/s22.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Samsung Galaxy S21",
+        "gama": "Alta",
+        "color": "Graphite",
+        "stock": "2",
+        "precio": 373000,
+        "rutaImagen": "./images/s21.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Samsung Galaxy A54",
+        "gama": "Media",
+        "color": "Awesome Graphite",
+        "stock": "15",
+        "precio": 307000,
+        "rutaImagen": "./images/a54.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Samsung Galaxy A34",
+        "gama": "Media",
+        "color": "Awesome Silver",
+        "stock": "12",
+        "precio": 200000,
+        "rutaImagen": "./images/a34.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Samsung Galaxy A24",
+        "gama": "Media",
+        "color": "Black",
+        "stock": "9",
+        "precio": 172000,
+        "rutaImagen": "./images/a24.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Samsung Galaxy A23",
+        "gama": "Baja",
+        "color": "Azul",
+        "stock": "11",
+        "precio": 140000,
+        "rutaImagen": "./images/a23.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Samsung Galaxy A14",
+        "gama": "Baja",
+        "color": "Silver",
+        "stock": "22",
+        "precio": 140000,
+        "rutaImagen": "./images/a14.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Samsung Galaxy A04s",
+        "gama": "Baja",
+        "color": "Blanco",
+        "stock": "7",
+        "precio": 112000,
+        "rutaImagen": "./images/a04s.png"
+    }
+]
